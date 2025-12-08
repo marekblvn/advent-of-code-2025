@@ -68,7 +68,7 @@ def part_two_solution() -> int:
 
 
 def main() -> None:
-    print("============ Day 03 ============")
+    print("============ Day 04 ============")
     part_one_sol = part_one_solution()
     print(f"Part 1 solution: {part_one_sol}")
     part_two_sol = part_two_solution()
